@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Authenticator Application</string>
+    <string name="account_authenticator_label">テストだぜ</string>
+    <string name="account_authenticator_account_type">com.example.test</string>
+</resources>
